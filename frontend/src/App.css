@@ -1,0 +1,11 @@
+/* Base styles are in index.css */
+/* Minimal overrides here if needed */
+.upload-area.active {
+  border-color: var(--primary);
+  background: rgba(99, 102, 241, 0.1);
+}
+
+.upload-icon {
+  margin-bottom: 1.5rem;
+  color: var(--primary);
+}
