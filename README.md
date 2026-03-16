@@ -8,8 +8,6 @@
 
 > A **full-stack Image Classification System** powered by deep learning that categorizes images into predefined categories with a modern, premium Glassmorphism web interface.
 
-🌐 **[Explore the docs »](#)**
-🚀 **[View Demo](#)** · 🐛 **[Report Bug](#)** · 🌟 **[Request Feature](#)**
 
 ---
 
